@@ -1,2 +1,2 @@
 # rsm
-New version of Routing System hydrological modeling tool
+opensource hydrological modeling tool
